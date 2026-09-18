@@ -131,6 +131,13 @@ A sales data analysis and visualization project that prepares data using Python 
 \- Top 5 Sales Days by Revenue
 
 
+### 📊 Tableau Dashboard
+
+![Sales Data Dashboard](03_Sales_Data_Dashboard/documentation/dashboard_screenshot.png)
+
+The interactive Tableau dashboard provides visual analysis of sales revenue across products, regions, and time.
+
+
 
 \---
 
